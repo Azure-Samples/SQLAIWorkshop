@@ -10,19 +10,19 @@ This workshop is designed to help you get started with SQL AI. The workshop is d
 
 ## Module 1 - SQL and AI Fundamentals
 
-##  **[Module 2 - AI Models](./Module%202%20-%20AI%20Models/README.md)**
+##  **[Module 2 - AI Models](./Module%202%20-%20AI%20Models/README.MD)**
 
-## **[Module 3 - SQL and AI Services](./Module 3 - SQL and AI Services\README.md)**
+## **[Module 3 - SQL and AI Services](./Module%203%20-%20SQL%20and%20AI%20Services/README.md)**
 
-## Module 4 - RAG Patterns
+## **[Module 4 - RAG Patterns](./Module%204%20-%20RAG%20Patterns/README.md)**
 
-## Module 5 - Content Safety
+## **[Module 5 - Content Safety](./Module%205%20-%20Content%20Safety/README.md)**
 
-## Module 6 - GenAI Frameworks
+## **[Module 6 - AI Frameworks](./Module%206%20-%20AI%20Frameworks/README.md)**
 
-## Module 7 - Copilots
+## **[Module 7 - Copilots](./Module%207%20-%20Copilots/README.md)**
 
-## Module 8 - Microsoft Fabric
+## **[Module 8 - Microsoft Fabric](./Module%208%20-%20Microsoft%20Fabric/README.md)**
 
 ## Summary
 
