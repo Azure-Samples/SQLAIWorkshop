@@ -14,7 +14,7 @@ This workshop is designed to help you get started with SQL AI. The workshop is d
 
 ## **[Module 3 - SQL and AI Services](./Module%203%20-%20SQL%20and%20AI%20Services/README.md)**
 
-## **[Module 4 - RAG Patterns](./Module%204%20-%20RAG%20Patterns/README.md)**
+## **[Module 4 - Vector Search and RAG Patterns](./Module%204%20-%20Vector%20Search%20and%20RAG%20Patterns/README.md)**
 
 ## **[Module 5 - Content Safety](./Module%205%20-%20Content%20Safety/README.md)**
 
