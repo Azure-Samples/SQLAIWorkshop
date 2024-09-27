@@ -1,7 +1,9 @@
+
 ## State of AI Models (evolving at a very fast pace)
 ![AI models](./AI%20models.png)
 
-## Azure Open AI Services: https://learn.microsoft.com/en-us/azure/ai-services/openai/ 
+## Azure OpenAI Services: 
+Learn about Azure OpenAI Services: https://learn.microsoft.com/en-us/azure/ai-services/openai/ 
 
 ## Prompting
 
