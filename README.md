@@ -8,7 +8,7 @@ This workshop is designed to help you get started with SQL AI. The workshop is d
 
 ## Slides
 
-## Module 1 - SQL and AI Fundamentals
+## **[Module 1 - SQL and AI Fundamentals](./Module%201%20-%20SQL%20and%20AI%20Fundamentals/README.md)**
 
 ##  **[Module 2 - AI Models](./Module%202%20-%20AI%20Models/README.md)**
 
