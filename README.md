@@ -8,20 +8,37 @@ This workshop is designed to help you get started with SQL AI. The workshop is d
 
 ## Slides
 
-## Module 1: SQL and AI Fundamentals
+## Module 1 - SQL and AI Fundamentals
 
-## Module 2: AI Models
+##  **[Module 2 - AI Models](Module 2 - AI Models\README.MD)**
 
-## Module 3: SQL and AI Services
+## Module 3 - SQL and AI Services
 
-## Module 4: RAG Patterns
+## Module 4 - RAG Patterns
 
-## Module 5: Content Safety
+## Module 5 - Content Safety
 
-## Module 6: GenAI Frameworks
+## Module 6 - GenAI Frameworks
 
-## Module 7: Copilots
+## Module 7 - Copilots
 
-## Module 8: Microsoft Fabric
+## Module 8 - Microsoft Fabric
 
 ## Summary
+
+## Getting Started
+To begin the lab, clone this repository and follow the instructions in each section. 
+
+## Contributing
+Contributions to this lab are welcome! Please create a PR for any contributions. 
+
+## License
+This lab is provided under the MIT License. See the `LICENSE` file for more details.
+
+## Acknowledgments
+A special thanks to all the contributors and maintainers of this lab. 
+
+## Contact
+For any queries or feedback regarding the lab, please open an issue in this repository or contact the lab maintainers directly.
+
+Happy coding and learning!
