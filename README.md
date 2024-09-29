@@ -10,6 +10,8 @@ This workshop is designed to help you get started with SQL AI. The workshop is d
 
 This workshop comes with a PowerPoint slide deck that is used to teach the workshop. You can find the deck in the **[slides](./slides)** folder.
 
+To learn more about each module click on any Module below.
+
 ## **[Module 1 - SQL and AI Fundamentals](./Module%201%20-%20SQL%20and%20AI%20Fundamentals/README.md)**
 
 ##  **[Module 2 - AI Models](./Module%202%20-%20AI%20Models/README.md)**
