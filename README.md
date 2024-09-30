@@ -6,6 +6,16 @@ This workshop is designed to help you get started with SQL AI. The workshop is d
 
 ## Pre-requisites
 
+In order to complete exercises in this workshop that are part of demos or specific lab steps you will need:
+
+- An Azure subscription with a minimum Contributor role.
+- You will need access to deploy an Azure OpenAI Service.
+- You will need access to deploy an Azure SQL Database.
+- Your tenant will need to have Copilot for Azure enabled. See more at https://aka.ms/sqlcopilot.
+- SQL Server Management Studio (SSMS) which you can download at https://aka.ms/ssms. We recommend the latest SSMS version.
+- The ability to run a Python based notebook.
+- To run any Fabric exercise you will need access to a Microsoft Fabric account. You can use a free trial from Microsoft Fabric.
+
 ## Slides
 
 This workshop comes with a PowerPoint slide deck that is used to teach the workshop. You can find the deck in the **[slides](./slides)** folder.
