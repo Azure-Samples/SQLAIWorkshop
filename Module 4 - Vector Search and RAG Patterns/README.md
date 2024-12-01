@@ -15,7 +15,7 @@ A simple RAG pattern using Azure SQL DB could be:
 - Enroll in the Azure SQL DB Vector preview
 - Setup a database
 - Insert data into an Azure SQL DB 
-- Create embeddings from external REST endpoitn Invocation using Azure OpenAI Embeddings
+- Create embeddings from external REST endpoint Invocation using Azure OpenAI Embeddings
 - Use a vector function to perform vector similarity search based on a user prompt
 - Perform question answering over the data using an Azure OpenAI Completions model
 - The RAG pattern, with prompt engineering, serves the purpose of enhancing response quality by offering more contextual information to the model. RAG enables the model to apply a broader knowledge base by incorporating relevant external sources into the generation process, resulting in more comprehensive and informed responses. For more information on "grounding" LLMs, see **[grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)**
