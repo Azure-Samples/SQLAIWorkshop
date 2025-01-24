@@ -1,5 +1,5 @@
-# SQL and AI Services
+# SQL and Azure AI Services
 
-YOu can find a full demo of SQL and AI Services at https://aka.ms/sqlaidemos in the **SQL and AI Services** folder.
+This is an example of how to use build a simple chat application using your data in an Azure SQL Database using Azure AI Search and Azure AI Foundry.
 
-Check back to this site for full step-by-step instructions to go through this demo.
+Update January 24th, 2025: The steps to use this example is coming soon. Check back for more details.
